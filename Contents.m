@@ -1,0 +1,20 @@
+% FROGSPAWN3
+%
+% Files
+%   egg          - egg(eggdir)
+%   egg3plane    - [x3,y3,z3] = egg3plane(xc, yc, zc, s, r0, CofM)
+%   egg_bfs      - egg_bfs(eggdir)
+%   eggdmz       - eggdmz(sf,r,lims)
+%   eggfan       - eggfan(lon)
+%   eggkeller    - eggkeller(sf)
+%   eggmaps      - eggmaps(sf)
+%   eggplane_bfs - [lplanes,xs_e,ys_e,zs_e] = eggplane_bfs(s,vsize,theta,r0,CofM,np,pm,mode)
+%   eggprep      - eggprep(datadir,ndig,vsize)
+%   eggseg       - eggseg(sf)
+%   eggshell_bfs - [map,maplegend] = eggshell_bfs(s,vsize,r_v,lims,ds,CofM,np,pm)
+%   eggshemi     - eggshemi(sf)
+%   eggshowbfs   - eggshowbfs(sf,r,segrng)
+%   eggsnake     - eggsnake(sf)
+%   seggment     - s_in = seggment(s)
+%   shellcircle  - [la, lo] = shellcircle(apole, maxlat, degs_samp)
+%   simview      - simview(simdir,r)
